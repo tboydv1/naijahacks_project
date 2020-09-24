@@ -1,0 +1,4 @@
+mysql-connector
+django
+django-bootstrap-static
+mysqlclient
